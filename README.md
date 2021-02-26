@@ -10,6 +10,14 @@
 
 #### Tests evidences
 
+* Coverage view Visual Studio 
+<img src="/screenshot/Imagem_1.png" width="400" height="200">
+
+* Coverage view ExtentReports
+<img src="/img/evidenceTest2.png" width="400" height="200">
+
+<img src="/img/evidenceTest3.png" width="400" height="200">
+_____
 * Home 
 <img src="/screenshot/Imagem_1.png" width="400" height="200">
 
@@ -19,12 +27,7 @@
 * Add cart
 <img src="/screenshot/Imagem_3.png" width="400" height="200">
 
-* Search product PS2
-<img src="/screenshot/Imagem_4.png" width="400" height="200">
-
-#### Coverage
-<img src="/img/DemoStore3TestsOk.png" width="500" height="300">
 
 #### References
  * [Screenshot](https://medium.com/@carol.ciola/selenium-webdriver-com-c-artigo-1-de-4-captura-de-screenshot-9f917a43cf6f)
- * [ExtentReports]()
+ * [ExtentReports](https://www.youtube.com/watch?v=d6lSJHqc-zY)
