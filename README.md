@@ -11,7 +11,7 @@
 #### Tests evidences
 
 * Coverage view Visual Studio 
-<img src="/screenshot/Imagem_1.png" width="400" height="200">
+<img src="/img/evidenceTest.png" width="400" height="200">
 
 * Coverage view ExtentReports
 <img src="/img/evidenceTest2.png" width="400" height="200">
